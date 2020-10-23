@@ -1,6 +1,6 @@
 {
   "name": "NTON",
-  "logoURI": "https://s1.ax1x.com/2020/10/23/BEEAzD.png",
+  "logoURI": "https://s1.ax1x.com/2020/10/23/BEdRHA.png",
   "keywords": [
       "defi",
       "NTON",
@@ -14,15 +14,7 @@
       "name": "NTON",
       "symbol": "NTON",
       "decimals": 18,
-      "logoURI": "https://s1.ax1x.com/2020/10/23/BEEAzD.png"
-      },
-       {
-      "chainId": 1,
-      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "name": "USDT",
-      "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png"
+      "logoURI": "https://s1.ax1x.com/2020/10/23/BEdRHA.png"
       }
     ],
     "version": {
