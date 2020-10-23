@@ -1,0 +1,25 @@
+{
+  "name": "NTON",
+  "logoURI": "https://s1.ax1x.com/2020/10/23/BEEAzD.png",
+  "keywords": [
+      "defi",
+      "NTON",
+      "yield"
+    ],
+    "timestamp": "2020-10-17T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xf80aA78e0Abd6a07524BA460BF47380BD28e4B8C",
+      "name": "NTON",
+      "symbol": "NTON",
+      "decimals": 18,
+      "logoURI": "https://s1.ax1x.com/2020/10/23/BEEAzD.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
